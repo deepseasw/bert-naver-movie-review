@@ -19,4 +19,6 @@ BERT에 대해서 좀 더 자세한 설명은 박상길님과 Jay Alammar의 블
 -> http://jalammar.github.io/illustrated-bert/
 
 # Colab 실행
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP]
+<a href="https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
