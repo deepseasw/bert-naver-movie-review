@@ -6,16 +6,16 @@ BERT(Bidirectional Encoder Representations from Transformers)는 구글이 개�
 
 이 예제에서는 한글 NLP의 Hello world라고 할 수 있는 네이버 영화리뷰 감정분석을 구현해보겠습니다. 가장 유명한 모델 중 하나인 Hugging Face의 PyTorch BERT를 사용하였습니다. 아래의 Chris McCormick의 블로그를 참조하여 한글에 맞게 수정하였음을 미리 알려드립니다.
 
-< BERT Fine-Tuning Tutorial with PyTorch >
+< BERT Fine-Tuning Tutorial with PyTorch ><br>
 -> https://mccormickml.com/2019/07/22/BERT-fine-tuning
 
 
 BERT에 대해서 좀 더 자세한 설명은 박상길님과 Jay Alammar의 블로그를 참조하시기 바랍니다.
 
-< BERT 톺아보기 >
+< BERT 톺아보기 ><br>
 -> http://docs.likejazz.com/bert/
 
-< The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) >
+< The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) ><br>
 -> http://jalammar.github.io/illustrated-bert/
 
 
